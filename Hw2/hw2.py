@@ -1,3 +1,14 @@
+
+# IDEAS
+
+# In scuttle tutorial, fetches image from camera 
+# judging from the image the strategy is func leftOrRight 
+# left right to tell robot to spin left or right and then move straight ahead
+
+
+
+
+
 import asyncio
 
 from viam.robot.client import RobotClient
